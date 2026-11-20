@@ -12,6 +12,7 @@ I secure software at enterprise scale: CI/CD security gates, cloud and identity 
 - **[Zero Trust Remote Access on Azure](https://github.com/mail2ramya17/zero-trust-azure-remote-access)**: Conditional Access baseline, eligible-only admin access through PIM, and Sentinel detections, as Terraform, KQL and Python.
 - **[Enterprise CI/CD Security Gate Platform](https://mail2ramya17.github.io/cicd-security-gates/)** (case study): Python-orchestrated SAST, SCA, secrets and container gates with OPA/Rego policy across 300+ applications. 74% fewer critical CVEs, 60% fewer false positives.
 - **[AI/LLM Application Security Program](https://mail2ramya17.github.io/llm-security-program/)** (case study): threat modeling, runtime guardrails and adversarial testing for Azure OpenAI and LangChain apps, mapped to OWASP LLM Top 10, MITRE ATLAS and NIST AI RMF.
+- **[Security Engineer Paths × Layers (V1 → V8)](https://github.com/mail2ramya17/security-engineer-paths)** ([interactive roadmap](https://mail2ramya17.github.io/security-engineer-paths/)): five security engineering paths (AppSec, Cloud, DevSecOps, Red, Blue) across eight maturity layers, from foundations to architecture and AI security.
 
 ### AI security & DevSecOps code samples
 
